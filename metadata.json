@@ -1,0 +1,6 @@
+{
+  "name": "Math Tug-of-War Game",
+  "description": "Fast-paced 2-player & AI Bot math puzzle tug-of-war rope pulling game with customizable toy avatars, speed streak bonuses, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
